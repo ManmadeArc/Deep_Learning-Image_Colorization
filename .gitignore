@@ -404,3 +404,5 @@ dataset.zip
 *.v2
 *.index
 *.data-00000-of-00001
+
+!Reducing Image Size/training_checkpoints/*.index
