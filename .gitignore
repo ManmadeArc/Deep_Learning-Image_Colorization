@@ -400,7 +400,7 @@ dataset-test.zip
 dataset.zip
 *.jpg
 *.gif
-*.png
+
 *.v2
 *.index
 *.data-00000-of-00001
